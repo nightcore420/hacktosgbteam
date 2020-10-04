@@ -8,5 +8,6 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 #Hi im an contributor😀 
 Put your name here!
 
-1. -[Al Fikri](https://github.com/Al-User12)
-2. -[Arnold](https://github.com/violete)
+- [Al Fikri](https://github.com/Al-User12)
+- [Arnold](https://github.com/violete)
+- [Dandy Raka](https://github.com/dandyraka)
