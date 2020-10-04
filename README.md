@@ -10,6 +10,6 @@ Put your name here!
 
 1. -[Al Fikri](https://github.com/Al-User12)
 2. -[Arnold](https://github.com/violete)
-3. -[R Giwa](https://github.com/pakualam)
-4. -[Irsyadulibad](github.com/irsyadulibad)
-
+3. -[Janexmgd](https://github.com/janexmgd)
+4. -[R Giwa](https://github.com/pakualam)
+5. -[Irsyadulibad](github.com/irsyadulibad)
