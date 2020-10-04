@@ -13,5 +13,5 @@ Put your name here!
 3. -[Janexmgd](https://github.com/janexmgd)
 4. -[R Giwa](https://github.com/pakualam)
 5. -[Irsyadulibad](github.com/irsyadulibad)
-6. -[Whales](github.com/whales99)
+6. -[Whales](https://github.com/whales99)
 
