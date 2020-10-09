@@ -13,4 +13,8 @@ Put your name here!
 3. -[Janexmgd](https://github.com/janexmgd)
 4. -[R Giwa](https://github.com/pakualam)
 5. -[Irsyadulibad](github.com/irsyadulibad)
+<<<<<<< HEAD
 5. -[Arungi Cahaya](https://github.com/a7cha)
+=======
+6. -[Arungi Cahaya](https://github.com/a7cha)
+>>>>>>> 7390b339dded17246dd1ab0b938b59b413ede187
